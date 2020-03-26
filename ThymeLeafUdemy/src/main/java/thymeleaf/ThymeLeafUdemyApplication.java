@@ -9,5 +9,4 @@ public class ThymeLeafUdemyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ThymeLeafUdemyApplication.class, args);
 	}
-
 }
